@@ -1,1 +1,7 @@
 "# assignmentonvariables" 
+"# IfstatementExercise" 
+"# IfstatementExercise" 
+"# mysecondjava" 
+"# smallestandlargestnumber" 
+"# programForOddNumbers" 
+"# GuessingGame" 
